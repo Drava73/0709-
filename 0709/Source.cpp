@@ -4,7 +4,7 @@ using namespace std;
 class yxx {
 	int x;
 	int y;
-	
+	int ool;
 	int nwl2;
 public:
 
