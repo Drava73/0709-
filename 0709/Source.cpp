@@ -16,6 +16,10 @@ public:
 		y = b;
 	}
 };
+class stud {
+	string nam;
+	int ag;
+};
 
 int main()
 {
