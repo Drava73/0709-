@@ -20,6 +20,10 @@ class stud {
 	string nam;
 	int ag;
 };
+class Univ {
+	stud* Acadmy;
+	int count;
+};
 
 int main()
 {
